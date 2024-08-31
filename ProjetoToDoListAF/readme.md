@@ -120,7 +120,7 @@ Diagrama de Classes:
 ![alt text](DiagramClasse.png)
 
 Diagrama de Casos de Uso:
-![alt text](DiagramaCasoUso.png)
+![alt text](DiagramaCasoDeUso.png)
 
 Diagrama de Fluxo:
 ![alt text](DiagramaDeFluxo.png)
