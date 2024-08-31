@@ -1,3 +1,5 @@
+# Projeto de Desenvolvimento de Aplicação To-Do List
+
 # Escopo do Projeto: O que Vamos Fazer
 
 ## 1. Escopo Funcional
@@ -80,10 +82,40 @@ O cronograma do projeto incluirá as seguintes etapas:
 
 ## 6. Recursos
 
-- **Equipe**: Desenvolvedores Full-Stack (2), Designer UX/UI (1), Analista de Testes (1).
-- **Tecnologias**: React, Node.js, MongoDB, Express, Docker.
-- **Orçamento**: $20.000 para desenvolvimento, teste e lançamento.
-- **Ferramentas**: GitHub para versionamento, Jira para gerenciamento de projetos, Slack para comunicação, Figma para design.
+- **Equipe**
+  - **Desenvolvedores Full-Stack (2)**: Responsáveis pelo desenvolvimento do back-end e front-end da aplicação.
+  - **Designer UX/UI (1)**: Responsável pela criação de interfaces intuitivas e pela experiência do usuário.
+  - **Analista de Testes (1)**: Responsável por garantir a qualidade do sistema através de testes rigorosos e identificação de bugs.
+  - **Especialista em Segurança (1)**: Responsável por implementar e monitorar medidas de segurança para proteger dados e assegurar a integridade do sistema.
+
+- **Tecnologias**
+  - **Front-end**: React para construção de interfaces dinâmicas e responsivas.
+  - **Back-end**: Node.js e Express para desenvolvimento de APIs e lógica do servidor.
+  - **Banco de Dados**: MongoDB para armazenamento de dados escalável e flexível.
+  - **Contêineres**: Docker para garantir ambientes consistentes e facilitar a implantação.
+
+- **Segurança**
+  - **Autenticação e Autorização**: Utilização de JWT (JSON Web Tokens) para autenticação segura e controle de acesso.
+  - **Criptografia**: Implementação de criptografia de dados sensíveis usando algoritmos robustos (por exemplo, AES).
+  - **Monitoramento e Logs**: Ferramentas para monitoramento de segurança e geração de logs (por exemplo, ELK Stack).
+  - **Testes de Segurança**: Ferramentas para testes de penetração e análise de vulnerabilidades (por exemplo, OWASP ZAP).
+  - **Firewall e Proteção de Rede**: Configuração de firewalls e outras medidas de proteção de rede para prevenir ataques.
+
+- **Orçamento**
+  - **Desenvolvimento**: $12.000
+  - **Testes**: $4.000
+  - **Lançamento**: $4.000
+  - **Total**: $20.000
+
+- **Ferramentas**
+  - **Versionamento**: GitHub para controle de versão e colaboração de código.
+  - **Gerenciamento de Projetos**: Jira para planejamento, acompanhamento e gerenciamento de tarefas.
+  - **Comunicação**: Slack para comunicação em tempo real e coordenação da equipe.
+  - **Design**: Figma para prototipagem e design de interfaces.
+  - **Segurança**: Ferramentas de segurança específicas e soluções de monitoramento conforme mencionado acima.
+
+
+
 Diagrama de Classes:
 ![alt text](DiagramClasse.png)
 
