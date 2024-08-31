@@ -116,11 +116,11 @@ O cronograma do projeto incluirá as seguintes etapas:
 
 
 
-Diagrama de Classes:
+# Diagrama de Classes:
 ![alt text](DiagramClasse.png)
 
-Diagrama de Casos de Uso:
+# Diagrama de Casos de Uso:
 ![alt text](DiagramaCasoDeUso.png)
 
-Diagrama de Fluxo:
+# Diagrama de Fluxo:
 ![alt text](DiagramaDeFluxo.png)
