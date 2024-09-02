@@ -71,7 +71,7 @@ O cronograma do projeto incluirá as seguintes etapas:
 - Ajustes e Melhorias com Base no Feedback (2 semanas)
 - Lançamento Final (1 semana)
 
-![alt text](cronograma_gantt.png)
+![alt text](diagramas/cronograma_gantt.png)
 
 ## 5. Análise de Risco
 
