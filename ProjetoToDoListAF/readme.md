@@ -71,7 +71,7 @@ O cronograma do projeto incluirá as seguintes etapas:
 - Ajustes e Melhorias com Base no Feedback (2 semanas)
 - Lançamento Final (1 semana)
 
-![alt text](diagramas/cronograma_gantt.png)
+![Cronograma](diagramas/cronograma_gantt.png)
 
 ## 5. Análise de Risco
 
@@ -117,10 +117,10 @@ O cronograma do projeto incluirá as seguintes etapas:
 
 
 # Diagrama de Classes:
-![alt text](diagramas/DiagramaDeClasses.png)
+![Diagrama de Classes](diagramas/DiagramaDeClasses.png)
 
 # Diagrama de Casos de Uso:
-![alt text](diagramas/DiagramaDeCasosUso.png)
+![Diagrama de Casos de Uso](diagramas/DiagramaDeCasosUso.png)
 
 # Diagrama de Fluxo:
-![alt text](diagramas/DiagramaDeFluxo.png)
+![Diagrama de Fluxo](diagramas/DiagramaDeFluxo.png)
