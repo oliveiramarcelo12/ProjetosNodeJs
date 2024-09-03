@@ -124,3 +124,14 @@ O cronograma do projeto incluirá as seguintes etapas:
 
 # Diagrama de Fluxo:
 ![Diagrama de Fluxo](diagramas/DiagramaDeFluxo.png)
+
+# Prototipagem
+
+# Login
+![Login](prototipoSite/Login.png)
+
+# Registro
+![Registro](prototipoSite/Registro.png)
+
+# Dashboard
+![Dashboard](prototipoSite/Dashboard.png)
