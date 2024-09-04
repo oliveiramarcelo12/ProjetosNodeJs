@@ -25,7 +25,8 @@ export const createTodo= async(data) =>{
 //update
 
 export const updateTodo = async (id, data) => {
-    await connectMongo();
+  connectMongo();
+  
     return await Todo.findByIdAndUpdate(id, data, {
       new: true,
       runValidators: true,
