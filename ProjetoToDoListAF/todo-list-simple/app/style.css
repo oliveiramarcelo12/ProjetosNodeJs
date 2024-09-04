@@ -1,0 +1,78 @@
+/* styles.css */
+
+/* Define o fundo da página como branco */
+body {
+    background-color: white;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Estilo para o contêiner principal */
+  .container {
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    background-color: white; /* Define o fundo do contêiner como branco */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Adiciona uma leve sombra ao contêiner */
+  }
+  
+  /* Estilo para o título */
+  h1 {
+    text-align: center;
+    color: #333;
+  }
+  
+  /* Estilo para o campo de entrada e botão de adicionar */
+  input[type="text"] {
+    padding: 10px;
+    width: calc(100% - 120px);
+    margin-right: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    border: none;
+    background-color: #007bff;
+    color: white;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  /* Estilo para a lista de tarefas */
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    display: flex;
+    align-items: center;
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    background-color: #f9f9f9; /* Define a cor de fundo dos itens da lista */
+  }
+  
+  /* Estilo para o checkbox e texto da tarefa */
+  input[type="checkbox"] {
+    margin-right: 10px;
+  }
+  
+  span {
+    flex-grow: 1;
+  }
+  
+  /* Estilo para tarefas concluídas */
+  span.completed {
+    color: green;
+    font-weight: bold;
+  }
+  

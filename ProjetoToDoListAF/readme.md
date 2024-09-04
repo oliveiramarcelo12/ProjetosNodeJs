@@ -127,11 +127,11 @@ O cronograma do projeto incluirá as seguintes etapas:
 
 # Prototipagem
 
-# Login
+# Login:
 ![Login](prototipoSite/Login.png)
 
-# Registro
+# Registro:
 ![Registro](prototipoSite/Registro.png)
 
-# Dashboard
+# Dashboard:
 ![Dashboard](prototipoSite/Dashboard.png)

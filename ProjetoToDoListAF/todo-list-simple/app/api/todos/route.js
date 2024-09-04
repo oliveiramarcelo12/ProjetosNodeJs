@@ -1,7 +1,6 @@
-import connectMongo from '@/utils/dbConnect';
-import Todo from '@/models/Todo';
-import { NextResponse } from 'next/server';
-
+import connectMongo from "@/utils/dbConnect";
+import Todo from "@/models/Todo";
+import { NextResponse } from "next/server";
 
 export async function GET() {
   await connectMongo();
@@ -12,7 +11,6 @@ export async function GET() {
     return NextResponse.json({ success: false }, { status: 400 });
   }
 }
-
 
 export async function POST(req) {
   await connectMongo();
